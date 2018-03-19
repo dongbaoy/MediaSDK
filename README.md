@@ -77,6 +77,8 @@ To enable the Instrumentation and Tracing Technology API you need either Intel®
 
 **Please note** that auto detection of the Intel VTune Amplifier configuration is not supported. The next step is mandatory if you want to use this feature: set `$ITT_PATH` so `$ITT_PATH/include/ittnotify.h` and `$ITT_PATH/libittnotify64.a` will be valid paths. MSDK build system will automatically detect it.
 
+## Only for test
+
 # See also
 Intel Media Server Studio: https://software.intel.com/en-us/intel-media-server-studio
 
